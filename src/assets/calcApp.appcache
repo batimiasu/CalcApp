@@ -1,0 +1,9 @@
+CACHE MANIFEST
+#ver 1.0.0
+CACHE:
+./favicon.ico
+../inline.bundle.js
+../styles.bundle.js
+../main.bundle.js
+../polyfills.bundle.js
+../vendor.bundle.js
